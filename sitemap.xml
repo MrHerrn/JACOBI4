@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://jacobi4.ru/sections/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/sections/download/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/sections/grant-list/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/sections/paper-list/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/sections/conference-paper-list/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/sections/author-list/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/sections/contact-list/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/www.dropbox.com/s/j7iehrcz596wpiz/jacobi_4.3.11.zipdl1</loc>
+    <lastmod>2019-07-14T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/</loc>
+    <lastmod>2019-07-14T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/versions/</loc>
+    <lastmod>2019-07-14T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/sections/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/categories/download/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

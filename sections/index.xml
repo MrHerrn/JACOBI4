@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on JACOBI4</title>
+    <link>http://jacobi4.ru/sections/</link>
+    <description>Recent content in Sections on JACOBI4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    
+	<atom:link href="http://jacobi4.ru/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>О проекте</title>
+      <link>http://jacobi4.ru/sections/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/sections/about/</guid>
+      <description>JACOBI4 является проектом, разработанным для автоматизации статистического многомерного анализа биологических данных. </description>
+    </item>
+    
+    <item>
+      <title>Скачать</title>
+      <link>http://jacobi4.ru/sections/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/sections/download/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Гранты</title>
+      <link>http://jacobi4.ru/sections/grant-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/sections/grant-list/</guid>
+      <description> РФФИ №19-07-00658 “Разработка новых методов, алгоритмов и сценариев анализа многомерных биологических данных и их программная реализация” РФФИ №13-07-00315 “Интеллектуальный анализ и комбинирование гетерогенных данных”  </description>
+    </item>
+    
+    <item>
+      <title>Статьи</title>
+      <link>http://jacobi4.ru/sections/paper-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/sections/paper-list/</guid>
+      <description>Ковалева В.Ю., Поздняков А.А., Литвинов Ю.Н., Ефимов В.М. Оценка сопряженности морфогенетических и молекулярно- генетических модулей изменчивости серых полевок Microtus s.l. в градиентных условиях среды // Экологическая генетика. – 2019. – Т. 17. – No 2. – С. 21–34. doi: 10.17816/ecogen17221-34
+Codons.zip Corr.zip GeoClim.zip M1.zip Vadim M. Efimov, Kirill V. Efimov, Vera Yu. Kovaleva Principal component analysis and its generalizations for any type sequence (pca-seq) // bioRxiv 535112, doi: 10.1101/535112 Leonid O.</description>
+    </item>
+    
+    <item>
+      <title>Тезисы</title>
+      <link>http://jacobi4.ru/sections/conference-paper-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/sections/conference-paper-list/</guid>
+      <description>Д.А. Полунин JACOBI 4: базовые алгоритмы многомерного анализа, специальные биоинформатические методы // 52-я Международная научная студенческая конференция МНСК-2014, НГУ, Новосибирск, апр., 2014 г. –Новосибирск, изд-во НГУ, 2014.-С.204. И.А. Штайгер Подсистемы автоматического документирования и поддержки целостности в программном комплексе JACOBI 4 // 52-я Международная научная студенческая конференция МНСК-2014, НГУ, Новосибирск, апр., 2014 г. –Новосибирск, изд-во НГУ, 2014.-С.209. В.Ю. Ковалева, В.М. Ефимов, Ю.Н. Литвинов. Анализ гетерогенных данных в систематике землероек: геометрический подход // Фундаментальные и прикладные исследования и образовательные традиции в зоологии / Материалы Межд.</description>
+    </item>
+    
+    <item>
+      <title>Авторы</title>
+      <link>http://jacobi4.ru/sections/author-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/sections/author-list/</guid>
+      <description> Ефимов Вадим Михайлович Научный руководитель Полунин Денис Андреевич Разработка вычислительных модулей комплекса JACOBI4 Штайгер Ирина Александровна Разработка графической оболочки и вычислительных модулей комплекса JACOBI4  </description>
+    </item>
+    
+    <item>
+      <title>Контакты</title>
+      <link>http://jacobi4.ru/sections/contact-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/sections/contact-list/</guid>
+      <description>Есть вопросы, замечания, предложения? Пишите: support@jacobi4.ru</description>
+    </item>
+    
+  </channel>
+</rss>
