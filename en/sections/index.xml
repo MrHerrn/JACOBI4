@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on JACOBI4</title>
+    <link>http://jacobi4.ru/en/sections/</link>
+    <description>Recent content in Sections on JACOBI4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://jacobi4.ru/en/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://jacobi4.ru/en/sections/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/sections/about/</guid>
+      <description>JACOBI4 is a software suite for automating multivariate statistical data analysis inteded for researchers not versed in software development. </description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>http://jacobi4.ru/en/sections/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/sections/download/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grants</title>
+      <link>http://jacobi4.ru/en/sections/grant-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/sections/grant-list/</guid>
+      <description> RFBR #19-07-00658 “Development of new methods, algorithms and pipelines for the analysis of multidimensional biological data and their software implementation” RFBR #13-07-00315 “Heterogenic data mining and combining”  </description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>http://jacobi4.ru/en/sections/paper-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/sections/paper-list/</guid>
+      <description>Vadim M. Efimov, Kirill V. Efimov, Vera Yu. Kovaleva Principal component analysis and its generalizations for any type sequence (pca-seq) // bioRxiv 535112, doi: 10.1101/535112 Leonid O. Klimov, Nikita I. Ershov, Vadim M. Efimov, Arcady L. Markel, Olga E. Redina. Genome-wide transcriptome analysis of hypothalamus in rats with inherited stress-induced arterial hypertension // BMC Genetics, January 2016, doi: 10.1186/s12863-015-0307-8 Konstantin V. Starostin, Evgeny A. Demidov, Alla V. Bryanskaya, Vadim M.</description>
+    </item>
+    
+    <item>
+      <title>Authors</title>
+      <link>http://jacobi4.ru/en/sections/author-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/sections/author-list/</guid>
+      <description> Vadim Efimov Research advisor Denis Polunin Software developer Irina Shtaiger Software developer  </description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>http://jacobi4.ru/en/sections/contact-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/sections/contact-list/</guid>
+      <description>If you have any questions or feedback drop us a line at support@jacobi4.ru.</description>
+    </item>
+    
+  </channel>
+</rss>

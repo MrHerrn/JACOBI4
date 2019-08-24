@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Versions on JACOBI4</title>
+    <link>http://jacobi4.ru/en/versions/</link>
+    <description>Recent content in Versions on JACOBI4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Jul 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jacobi4.ru/en/versions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JACOBI 4.3.11</title>
+      <link>http://jacobi4.ru/en/versions/jacobi-4.3.11/</link>
+      <pubDate>Sun, 14 Jul 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/versions/jacobi-4.3.11/</guid>
+      <description> Fixed implicit conversion of non-number values to -1 in matrixOnElementsOperation module. Added &amp;ldquo;entropy&amp;rdquo; function to matrixOnElementsOperation module. Merged normalized_compression_distance and compress_metric into one module. Added Jaccard index to compression metric module.  </description>
+    </item>
+    
+  </channel>
+</rss>
