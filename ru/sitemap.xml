@@ -91,23 +91,23 @@
   </url>
   
   <url>
-    <loc>http://jacobi4.ru/versions/jacobi-4.3.11/</loc>
-    <lastmod>2019-07-14T12:00:00+00:00</lastmod>
+    <loc>http://jacobi4.ru/versions/jacobi-4.3.12/</loc>
+    <lastmod>2019-08-24T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jacobi4.ru/en/versions/jacobi-4.3.11/"
+                href="http://jacobi4.ru/en/versions/jacobi-4.3.12/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://jacobi4.ru/versions/jacobi-4.3.11/"
+                href="http://jacobi4.ru/versions/jacobi-4.3.12/"
                 />
   </url>
   
   <url>
     <loc>http://jacobi4.ru/</loc>
-    <lastmod>2019-07-14T12:00:00+00:00</lastmod>
+    <lastmod>2019-08-24T12:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -123,7 +123,7 @@
   
   <url>
     <loc>http://jacobi4.ru/versions/</loc>
-    <lastmod>2019-07-14T12:00:00+00:00</lastmod>
+    <lastmod>2019-08-24T12:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -134,6 +134,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="http://jacobi4.ru/versions/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://jacobi4.ru/versions/jacobi-4.3.11/</loc>
+    <lastmod>2019-07-14T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jacobi4.ru/en/versions/jacobi-4.3.11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://jacobi4.ru/versions/jacobi-4.3.11/"
                 />
   </url>
   

@@ -5,10 +5,19 @@
     <link>http://jacobi4.ru/en/versions/</link>
     <description>Recent content in Versions on JACOBI4</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 Jul 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jacobi4.ru/en/versions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JACOBI 4.3.12</title>
+      <link>http://jacobi4.ru/en/versions/jacobi-4.3.12/</link>
+      <pubDate>Sat, 24 Aug 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/versions/jacobi-4.3.12/</guid>
+      <description> Computing full matrix in compression distance instead of upper triangular one. Compressing object with oneself in compression distance module. Changed sign in &amp;ldquo;entropy&amp;rdquo; function in matrixOnElementsOperation module. Added mergeColumns module.  </description>
+    </item>
     
     <item>
       <title>JACOBI 4.3.11</title>
