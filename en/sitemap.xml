@@ -104,7 +104,6 @@
   <url>
     <loc>http://jacobi4.ru/en/</loc>
     <lastmod>2019-08-24T12:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -120,7 +119,6 @@
   <url>
     <loc>http://jacobi4.ru/en/versions/</loc>
     <lastmod>2019-08-24T12:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -150,7 +148,6 @@
   
   <url>
     <loc>http://jacobi4.ru/en/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -164,8 +161,21 @@
   </url>
   
   <url>
+    <loc>http://jacobi4.ru/en/categories/download/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://jacobi4.ru/categories/download/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jacobi4.ru/en/categories/download/"
+                />
+  </url>
+  
+  <url>
     <loc>http://jacobi4.ru/en/sections/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -180,7 +190,6 @@
   
   <url>
     <loc>http://jacobi4.ru/en/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -190,21 +199,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://jacobi4.ru/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://jacobi4.ru/en/categories/download/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://jacobi4.ru/categories/download/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jacobi4.ru/en/categories/download/"
                 />
   </url>
   
