@@ -151,34 +151,6 @@
   </url>
   
   <url>
-    <loc>http://jacobi4.ru/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jacobi4.ru/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://jacobi4.ru/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://jacobi4.ru/categories/download/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jacobi4.ru/en/categories/download/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://jacobi4.ru/categories/download/"
-                />
-  </url>
-  
-  <url>
     <loc>http://jacobi4.ru/sections/</loc>
     <xhtml:link
                 rel="alternate"
@@ -189,20 +161,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="http://jacobi4.ru/sections/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://jacobi4.ru/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jacobi4.ru/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://jacobi4.ru/tags/"
                 />
   </url>
   
