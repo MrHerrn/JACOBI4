@@ -1,14 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Versions on JACOBI4</title>
     <link>http://jacobi4.ru/versions/</link>
     <description>Recent content in Versions on JACOBI4</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Nov 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jacobi4.ru/versions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JACOBI 4.3.14</title>
+      <link>http://jacobi4.ru/versions/jacobi-4.3.14/</link>
+      <pubDate>Sat, 23 Nov 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/versions/jacobi-4.3.14/</guid>
+      <description> Добавлено включение последнего элемента в цикле for. Добавлен перевод документации части модулей на английский язык.  </description>
+    </item>
     
     <item>
       <title>JACOBI 4.3.13</title>
@@ -16,7 +25,7 @@
       <pubDate>Sun, 17 Nov 2019 12:00:00 +0000</pubDate>
       
       <guid>http://jacobi4.ru/versions/jacobi-4.3.13/</guid>
-      <description> Исправлена дублирование первого значения в цикле for. Добавлен перевод документации части модулей на английский язык.  </description>
+      <description> Исправлено дублирование первого значения в цикле for. Добавлен перевод документации части модулей на английский язык.  </description>
     </item>
     
     <item>
