@@ -33,7 +33,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jacobi4.ru/sections/grant-list/</guid>
-      <description> РФФИ №19-07-00658 “Разработка новых методов, алгоритмов и сценариев анализа многомерных биологических данных и их программная реализация” РФФИ №13-07-00315 “Интеллектуальный анализ и комбинирование гетерогенных данных”  </description>
+      <description> РФФИ №19-07-00658 “Разработка новых методов, алгоритмов и сценариев анализа многомерных биологических данных и их программная реализация”. РФФИ №13-07-00315 “Интеллектуальный анализ и комбинирование гетерогенных данных”.  </description>
     </item>
     
     <item>
@@ -42,9 +42,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jacobi4.ru/sections/paper-list/</guid>
-      <description>Denis Polunin, Irina Shtaiger, Vadim Efimov (2019). JACOBI4 software for multivariate analysis of biological data // bioRxiv 803684, doi: 10.1101/803684
-Cytb_DROME.7z HD-GSE_A.7z Ковалева В.Ю., Поздняков А.А., Литвинов Ю.Н., Ефимов В.М. Оценка сопряженности морфогенетических и молекулярно- генетических модулей изменчивости серых полевок Microtus s.l. в градиентных условиях среды // Экологическая генетика. – 2019. – Т. 17. – No 2. – С. 21–34. doi: 10.17816/ecogen17221-34
-Codons.zip Corr.zip GeoClim.zip M1.zip Vadim M. Efimov, Kirill V.</description>
+      <description>Denis Polunin, Irina Shtaiger, Vadim Efimov (2019). JACOBI4 software for multivariate analysis of biological data // bioRxiv 803684, doi: 10.1101/803684. Cytb_DROME.7z HD-GSE_A.7z  Ковалева В.Ю., Поздняков А.А., Литвинов Ю.Н., Ефимов В.М. Оценка сопряженности морфогенетических и молекулярно- генетических модулей изменчивости серых полевок Microtus s.l. в градиентных условиях среды // Экологическая генетика. – 2019. – Т. 17. – No 2. – С. 21–34. doi: 10.17816/ecogen17221-34. Codons.zip Corr.zip GeoClim.zip M1.zip  Vadim M.</description>
     </item>
     
     <item>
@@ -62,7 +60,7 @@ Codons.zip Corr.zip GeoClim.zip M1.zip Vadim M. Efimov, Kirill V.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jacobi4.ru/sections/author-list/</guid>
-      <description> Ефимов Вадим Михайлович Научный руководитель Полунин Денис Андреевич Разработка вычислительных модулей комплекса JACOBI4 Штайгер Ирина Александровна Разработка графической оболочки и вычислительных модулей комплекса JACOBI4  </description>
+      <description> Вадим Ефимов Научный руководитель Денис Полунин Разработка вычислительных модулей комплекса JACOBI4 Ирина Штайгер Разработка графической оболочки и вычислительных модулей комплекса JACOBI4  </description>
     </item>
     
     <item>
@@ -71,7 +69,7 @@ Codons.zip Corr.zip GeoClim.zip M1.zip Vadim M. Efimov, Kirill V.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jacobi4.ru/sections/contact-list/</guid>
-      <description>Есть вопросы, замечания, предложения? Пишите: support@jacobi4.ru</description>
+      <description>Есть вопросы, замечания, предложения? Пишите: support@jacobi4.ru.</description>
     </item>
     
   </channel>
