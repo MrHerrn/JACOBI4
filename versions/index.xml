@@ -5,10 +5,19 @@
     <link>http://jacobi4.ru/versions/</link>
     <description>Recent content in Versions on JACOBI4</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Feb 2020 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jacobi4.ru/versions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JACOBI 4.3.17</title>
+      <link>http://jacobi4.ru/versions/jacobi-4.3.17/</link>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/versions/jacobi-4.3.17/</guid>
+      <description> Добавлен модуль bootstrapLabels для генерации весов для ключей входной матрицы. Исправлено неправильное именование ключей матриц в модуле PLS regression.  </description>
+    </item>
     
     <item>
       <title>JACOBI 4.3.16</title>

@@ -5,10 +5,19 @@
     <link>http://jacobi4.ru/en/versions/</link>
     <description>Recent content in Versions on JACOBI4</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Feb 2020 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jacobi4.ru/en/versions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JACOBI 4.3.17</title>
+      <link>http://jacobi4.ru/en/versions/jacobi-4.3.17/</link>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/versions/jacobi-4.3.17/</guid>
+      <description> Added bootstrapLabels module for generating weights for data labels. Fixed label naming in PLS regression module.  </description>
+    </item>
     
     <item>
       <title>JACOBI 4.3.16</title>
