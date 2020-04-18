@@ -5,10 +5,19 @@
     <link>http://jacobi4.ru/en/versions/</link>
     <description>Recent content in Versions on JACOBI4</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Mar 2020 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jacobi4.ru/en/versions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JACOBI 4.3.19</title>
+      <link>http://jacobi4.ru/en/versions/jacobi-4.3.19/</link>
+      <pubDate>Sat, 18 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/versions/jacobi-4.3.19/</guid>
+      <description> Added empty values handling in metric and normalization modules.  </description>
+    </item>
     
     <item>
       <title>JACOBI 4.3.18</title>
