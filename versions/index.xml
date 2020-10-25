@@ -5,10 +5,15 @@
     <link>http://jacobi4.ru/versions/</link>
     <description>Recent content in Versions on JACOBI4</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Apr 2020 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://jacobi4.ru/versions/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 +0000</lastBuildDate><atom:link href="http://jacobi4.ru/versions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JACOBI 4.3.21</title>
+      <link>http://jacobi4.ru/versions/jacobi-4.3.21/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/versions/jacobi-4.3.21/</guid>
+      <description> Добавлен модуль вычисления обратного преобразования Бокса-Кокса. Добавлен модуль для посимвольного разделения значений. Добавлено вычисление доверительного интервала в модуль вычисления статистик. Добавлена обработка нечисловых значений в модуле вычисления корреляции. Добавлено вычисление статистик для вектора стандартных в модуле вычисления PCO. Удалена нормализация вектора в модуле, реализующем процес Грама-Шмидта. Исправлено вычисление трансформации Бокса-Кокса. Исправлена обработка пустого числа строк в модуле matrixShifter. Удалена поддержка Windows XP.  </description>
+    </item>
     
     <item>
       <title>JACOBI 4.3.20</title>

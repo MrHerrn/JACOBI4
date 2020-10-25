@@ -5,10 +5,15 @@
     <link>http://jacobi4.ru/en/versions/</link>
     <description>Recent content in Versions on JACOBI4</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Apr 2020 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://jacobi4.ru/en/versions/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 +0000</lastBuildDate><atom:link href="http://jacobi4.ru/en/versions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JACOBI 4.3.21</title>
+      <link>http://jacobi4.ru/en/versions/jacobi-4.3.21/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 +0000</pubDate>
+      
+      <guid>http://jacobi4.ru/en/versions/jacobi-4.3.21/</guid>
+      <description> Added inverse Box-Cox computation module. Added character-wise value splitting module. Added confidence interval computation in statistics module. Added non-numeric value handling in correlation module. Added cumulative statistics computation for eigenvalues in PCO module. Removed vector normalization in Gram-Schmidt process module. Fixed issues with Box-Cox computation. Fixed empty matrix handling in matrixShifter module. Dropped Windows XP support.  </description>
+    </item>
     
     <item>
       <title>JACOBI 4.3.20</title>
